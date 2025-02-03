@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(2, 2, 35);
+}
+.green{
+    color: green;
+    text-decoration: underline;
+}
+.white{
+    color: aliceblue;
+}
+.box{
+    margin: 50px;
+}
+i{
+    color: rgb(13, 186, 13);
+    font-size: 25px;
+}
+.box2{
+    margin: 55px;
+}
+.box2 input{
+     padding: 10px;
+     width: 340px;
+     border: none;
+     outline: none;
+     font-size: 16px;
+     border-radius: 6px;
+}
+button{
+    padding: 12px;
+    margin-left: 65px;
+    font-size: 17px;
+    font-weight: 500;
+    background-color: rgb(50, 192, 50);
+    color: white;
+    border: none;
+    cursor: pointer;
+}
